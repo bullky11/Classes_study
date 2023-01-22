@@ -1,0 +1,14 @@
+2 main pyt látsz itt main.py és main2_feladatok néven
+a main.py lényege az első 3 videó itt tanultuk meg Cséfalvy Katalin tanárnő videói alapján az osztályok alapvető működését
+a 4.videó feladait tartalmazza pedig a main2_feladatok.py fájl ,
+hogy ne kavarodjon össze a 2 fájl ki kommenteltem az importot a main.py elején illetve minden hozzátartozó változtatást a fájlban!
+""#innen vedd ki a kommentet!" szöveget látsz ezek mögött ha ezt kiveszed tökéletesen kell működnie(elméletben)
+javaslom h először nézd végig a videókat nagyon nagyon jól elmagyarázza tanárnő és készíts saját változatot(ez azért létezik mert ez alapján tanultam de hátha segít nektek is valamiben)
+videók driveja:https://szamalkszalezihu-my.sharepoint.com/personal/csefalvay_szamalk-szalezi_hu/_layouts/15/onedrive.aspx?id=%2Fpersonal%2Fcsefalvay%5Fszamalk%2Dszalezi%5Fhu%2FDocuments%2FFelv%C3%A9telek%2Fosztalyok%5Fpython&ga=1
+emellet a word doksit se rossz
+word:https://etananyag.szamalk-szalezi.hu/course/view.php?id=1031&section=1#tabs-tree-start
+emellet az ominózus sulypite:https://sulipy.hu/
+ezt Zsolt találta ezer hála neki nagyon jó és egyszerűen lényegletörően mutatja be a phyton alapjait , még  a tiltott for ciklus fortélyait is megtanítja ha arra vágysz
+disclaimer:
+bármi kérdés van írjatok(nem garantált az értelmes válasz, inkább Zsolt segítségében bízzatok:D)
+bármi hiba természetesen nem az én hanyagságom hanem biztos a letöltéskor történt:3
